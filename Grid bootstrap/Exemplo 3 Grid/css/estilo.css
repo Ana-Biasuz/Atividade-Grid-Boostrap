@@ -1,0 +1,25 @@
+.vermelho{
+    height: 200px;
+}
+
+.roxo,
+.verde,
+.azul{
+	height: 400px;
+}
+
+.vermelho{
+	background-color: aqua;
+}
+
+.roxo{
+	background-color: yellow;
+}
+
+.verde{
+	background-color: blue;
+}
+
+.azul{
+	background-color: purple;
+}
